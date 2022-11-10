@@ -11,7 +11,7 @@ class Car {
     }
   }
 
-var make = "BMW";
-var model = "M3";
+var make = "Mercedes";
+var model = "SLS AMG";
 var year = "2019";
 var color = "Silver";
